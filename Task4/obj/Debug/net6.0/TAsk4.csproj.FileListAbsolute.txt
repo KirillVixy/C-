@@ -1,0 +1,15 @@
+C:\Lessons\ДЗ\TAsk4\obj\Debug\net6.0\TAsk4.csproj.AssemblyReference.cache
+C:\Lessons\ДЗ\TAsk4\obj\Debug\net6.0\TAsk4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\ДЗ\TAsk4\obj\Debug\net6.0\TAsk4.AssemblyInfoInputs.cache
+C:\Lessons\ДЗ\TAsk4\obj\Debug\net6.0\TAsk4.AssemblyInfo.cs
+C:\Lessons\ДЗ\TAsk4\obj\Debug\net6.0\TAsk4.csproj.CoreCompileInputs.cache
+C:\Lessons\ДЗ\Task4\bin\Debug\net6.0\TAsk4.exe
+C:\Lessons\ДЗ\Task4\bin\Debug\net6.0\TAsk4.deps.json
+C:\Lessons\ДЗ\Task4\bin\Debug\net6.0\TAsk4.runtimeconfig.json
+C:\Lessons\ДЗ\Task4\bin\Debug\net6.0\TAsk4.dll
+C:\Lessons\ДЗ\Task4\bin\Debug\net6.0\TAsk4.pdb
+C:\Lessons\ДЗ\Task4\obj\Debug\net6.0\TAsk4.dll
+C:\Lessons\ДЗ\Task4\obj\Debug\net6.0\refint\TAsk4.dll
+C:\Lessons\ДЗ\Task4\obj\Debug\net6.0\TAsk4.pdb
+C:\Lessons\ДЗ\Task4\obj\Debug\net6.0\TAsk4.genruntimeconfig.cache
+C:\Lessons\ДЗ\Task4\obj\Debug\net6.0\ref\TAsk4.dll
